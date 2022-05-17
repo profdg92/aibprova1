@@ -1,11 +1,9 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
+title: Algoritmi e Informatica di Base
+description: Primo progetto di Informatica presso il Liceo "I. Kant" di Melito di Napoli
 show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Setup
-    url: setup
   - title: Team
     url: Team
