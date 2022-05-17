@@ -7,3 +7,5 @@ navigation:
     url: /
   - title: Setup
     url: setup
+  - title: Team
+    url: Team
