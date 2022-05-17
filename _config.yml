@@ -7,3 +7,12 @@ navigation:
     url: /
   - title: Team
     url: /pages/team
+    
+  - title: Jupyter Notebook Code
+    url: /pages/jupyter
+    
+  - title: Utilities
+    url: /pages/utilities   
+    
+  - title: Extra
+    url: /pages/extra   
