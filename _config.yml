@@ -4,7 +4,8 @@ description: Primo progetto di Informatica presso il Liceo "I. Kant" di Melito d
 show_downloads: True
 navigation:
   - title: Home
-    url: /
+    url: /pages/team
+    
   - title: Team
     url: /pages/team
     
