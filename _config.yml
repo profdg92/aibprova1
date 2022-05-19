@@ -9,7 +9,7 @@ navigation:
   - title: Team
     url: /pages/team
     
-  - title: Jupyter Notebook Code
+  - title: Jupyter
     url: /pages/jupyter
     
   - title: Utilities
