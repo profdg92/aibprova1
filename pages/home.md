@@ -51,5 +51,6 @@ Nel corso del progetto abbiamo spesso attinto ai seguenti link:
 - Gli esercizi del [Project Euler](https://projecteuler.net/archives) sono un buon inizio per fare pratica, ma attenzione: non sono affatto semplici!
 - Un'altra fonte di esercizi è l'[Advent Of Code](https://adventofcode.com/) una competizione che si tiene ogni anno a ridosso del Natale
 - Questo [Sito](https://www.programiz.com/python-programming/function) è abbastanza completo per coprire le basi del Python.
+- Infine abbiamo fatto largo uso di [GitHub](https://github.com/) e [StackOverflow](https://stackoverflow.com/)
 
 Ovviamente se sei curioso, ti aspettiamo alla prossima Edizione del corso!
