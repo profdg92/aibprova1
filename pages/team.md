@@ -4,7 +4,7 @@ Quest'anno la nostra squadra era composta dai seguenti Alunni del nostro [Liceo]
 
 ### Antinori Antonio
 
-Ciao sono Antonioe e frequento la IV C. Ho partecipato al corso con grande curiosità e altrettanto grandi aspettative.<br>
+Ciao sono Antonio e frequento la IV C. Ho partecipato al corso con grande curiosità e altrettanto grandi aspettative.<br>
 Potrei stare a dirvi quanto le aspettative siano state soddisfatte, ma questo messaggio vuole essere una pubblicità, e si sa, le pubblicità migliori sono brevi e coincise, quindi: iscritevi al corso :)
 
 ---------------------------------
