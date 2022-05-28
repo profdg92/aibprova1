@@ -14,6 +14,7 @@ Consulta sempre le [comunicazioni ufficiali](https://www.liceomelito.edu.it/) pe
 | IV     | [IVA](https://profdg92.github.io/aibprova1/timeline_class/4A)    | [IVB](https://profdg92.github.io/aibprova1/timeline_class/4B)     | [IVC](https://profdg92.github.io/aibprova1/timeline_class/4C)     |
 | V      | [VA](https://profdg92.github.io/aibprova1/timeline_class/5A)     | [VB](https://profdg92.github.io/aibprova1/timeline_class/5B)      | [VC](https://profdg92.github.io/aibprova1/timeline_class/5C)      |
 
+---------------------------------------------
 
 ### Linguistico
 
@@ -24,6 +25,8 @@ Consulta sempre le [comunicazioni ufficiali](https://www.liceomelito.edu.it/) pe
 | III    | [IIIAL](https://profdg92.github.io/aibprova1/timeline_class/3AL)   | [IIIBL](https://profdg92.github.io/aibprova1/timeline_class/3BL)    | 
 | IV     | [IVAL](https://profdg92.github.io/aibprova1/timeline_class/4AL)    | [IVBL](https://profdg92.github.io/aibprova1/timeline_class/4BL)     | 
 | V      | [VAL](https://profdg92.github.io/aibprova1/timeline_class/5AL)     | [VBL](https://profdg92.github.io/aibprova1/timeline_class/5BL)      |
+
+---------------------------------------------
 
 
 ### Scienze Umane
