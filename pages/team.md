@@ -13,7 +13,7 @@ Potrei stare a dirvi quanto le aspettative siano state soddisfatte, ma questo me
 
 Ciao, mi chiamo  Mirko e sono un alunno della IV A. <br>
 Mi piacciono la [Matematica](https://www.youtube.com/watch?v=r6sGWTCMz2k), l'[Informatica](https://www.youtube.com/watch?v=x7X9w_GIm1s) e la [Fisica](https://www.youtube.com/watch?v=7vc-Uvp3vwg). <br>
-In questo corso ho avuto la possibilità di scoprire quanto possa essere interessante il mondo della programmazione nonostante all'inizio ne avessi un'idea a dir poco spaventosa. Se vuoi anche tu stupirti su quanto sia facile la programmazione ti consiglio di iscriverti al corso!
+In questo corso ho avuto la possibilità di scoprire quanto possa essere interessante il mondo della programmazione nonostante all'inizio ne avessi un'idea a dir poco spaventosa. Se vuoi  stupirti anche tu di quanto sia facile la programmazione ti consiglio di iscriverti al corso!
 
 ---------------------------------
 
