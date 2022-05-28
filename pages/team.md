@@ -26,7 +26,7 @@ Il corso di programmazione è stato invero piacevole e appassionante, e spero ch
 
 ### De Carlo Emiliano
 
-Ciao, mi chiamo Emiliano e frequento la IV A. Nel tempo libero mi piace giocare a calcio e grazie a questo corso mi sono appassionato molto anche all'Informatica.<br> Inoltre, questo corso mi ha permesso non solo di apprendere conoscenze che tempo prima non avrei considerato possibili apprendere, ma mi ha permesso anche di fare nuove amicizie. Prof simpaticissimo e molto disponibile.
+Ciao, mi chiamo Emiliano e frequento la IV A. Nel tempo libero mi piace giocare a calcio e grazie a questo corso mi sono appassionato molto anche all'Informatica.<br> Inoltre, questo corso mi ha permesso non solo di apprendere conoscenze che tempo prima non avrei considerato accessibili, ma mi ha consentito anche di fare nuove amicizie. Prof simpaticissimo e molto disponibile.
 
 ---------------------------------
 
