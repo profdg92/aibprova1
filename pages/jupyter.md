@@ -17,4 +17,6 @@ Se vuoi programmare anche tu in Python, ti consiglio di scaricare la [Suite Anac
 
 - [Notebook 6](https://nbviewer.org/github/profdg92/aibprova1/blob/master/jupyter_code/6_analisi_testuale.ipynb), dove abbiamo effettuato una semplice analisi testuale della Divina Commedia.
 
-cia
+- [Notebook 7](https://nbviewer.org/github/profdg92/aibprova1/blob/master/jupyter_code/7_ricorsione.ipynb), dove abbiamo effettuato una semplice analisi testuale della Divina Commedia.
+
+- [Notebook 8](https://nbviewer.org/github/profdg92/aibprova1/blob/master/jupyter_code/8_errori.ipynb), dove abbiamo effettuato una semplice analisi testuale della Divina Commedia.
