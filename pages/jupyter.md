@@ -16,3 +16,5 @@ Se vuoi programmare anche tu in Python, ti consiglio di scaricare la [Suite Anac
 - [Notebook 5](https://nbviewer.org/github/profdg92/aibprova1/blob/master/jupyter_code/5_web scraping.ipynb), dove abbiamo approfondito il web scraping
 
 - [Notebook 6](https://nbviewer.org/github/profdg92/aibprova1/blob/master/jupyter_code/6_analisi_testuale.ipynb), dove abbiamo effettuato una semplice analisi testuale della Divina Commedia.
+
+cia
