@@ -13,7 +13,7 @@ Se vuoi programmare anche tu in Python, ti consiglio di scaricare la [Suite Anac
 
 - [Notebook 4](https://nbviewer.org/github/profdg92/aibprova1/blob/master/jupyter_code/4_la_classe_non_e_acqua.ipynb), dove abbiamo definito il concetto di [classe astratta](https://www.programmareinpython.it/video-corso-python-programmazione-a-oggetti/01-classi-e-istanze/)
 
-- , dove abbiamo approfondito il web scraping
+- [Notebook 5](https://nbviewer.org/github/profdg92/aibprova1/blob/master/jupyter_code/4_la_classe_non_e_acqua.ipynb), dove abbiamo approfondito il web scraping
 
 - [Notebook 6](https://nbviewer.org/github/profdg92/aibprova1/blob/master/jupyter_code/6_analisi_testuale.ipynb), dove abbiamo effettuato una semplice analisi testuale della Divina Commedia.
 
